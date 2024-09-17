@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>forum</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>testando forum</h1>
-    <p> conexao banco de dados </h1>
+    <h1> testando laravel</h1>
+    <p>hoje to testando as rotas e os controllers</p>
 </body>
 </html>

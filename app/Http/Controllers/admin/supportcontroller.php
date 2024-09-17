@@ -8,8 +8,10 @@ use Illuminate\Routing\Controller as RoutingController;
 
 class supportcontroller extends RoutingController
 {
-    public function index()
+    public function site()
     {
-        return view('admin/supports/index');
+        return view('contact');
+
+    
     }
 }
