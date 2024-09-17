@@ -10,7 +10,10 @@ class supportcontroller extends RoutingController
 {
     public function site()
     {
+        
         return view('contact');
+
+        
 
     
     }
